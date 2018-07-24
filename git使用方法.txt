@@ -15,19 +15,4 @@ git config --global http.postBuffer 524288000
 常用命令
 https://blog.csdn.net/qq_28003535/article/details/71089161
 
-androidpage
-hsjt
-HZJFmanagement
-hzjfwx
-hzjiwebadmin
-ionic1
-ionic2
-iosshops
-laqu
-manage-system
-ng1
-shops
-test
-webbackstage
-wxdemo
 
