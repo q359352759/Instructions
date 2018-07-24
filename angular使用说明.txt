@@ -1,0 +1,11 @@
+使用angular cli创建一个带路由的项目
+创建项目 	ng new 项目名称 --routing      ng new 项目名称 这种写法不带有路由
+启动 		ng serve
+
+ 
+路由文件 app-routing.module.ts文件代码如下
+去看下这个网站介绍了路由
+https://blog.csdn.net/kuangshp128/article/details/72626066
+http://www.mamicode.com/info-detail-2228258.html
+
+生成两个components:  ng g c 名称
