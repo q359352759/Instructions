@@ -1,0 +1,18 @@
+Ionic CLI介绍
+npm install -g cordova	不是很清楚这个是什么
+npm install -g ionic
+
+https://segmentfault.com/a/1190000007133212#articleHeader1
+
+ionic start 项目名 --v2
+	v2好像是版本号
+ionic serve 电脑端启动
+ionic g 创建成员   比如：ionic g page mypage
+	
+我的注册账号是 359352759@qq.com
+密码好像是  !meng870905
+
+这个是好像是打包的
+https://zhidao.baidu.com/question/244258840696572604.html
+
+
