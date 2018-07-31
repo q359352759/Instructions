@@ -43,3 +43,6 @@ if (options.extract) {
 //https://segmentfault.com/q/1010000008717164
 
 config/index.js中  productionSourceMap:false 可以减少打包的 .map文件
+
+懒加载
+https://blog.csdn.net/qq_37540004/article/details/78727063
