@@ -61,4 +61,5 @@ vue-cli 3
 如果项目无法删除
 https://www.cnblogs.com/Amos-Turing/p/6483979.html
 	
-	
+npm清楚缓存
+npm cache clean -f
