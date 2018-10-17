@@ -58,4 +58,7 @@ vue-cli 3
 	vue create <project-name>
 	也可以用 vue ui创建（这是一个网页版的本地管理器）
 	
+如果项目无法删除
+https://www.cnblogs.com/Amos-Turing/p/6483979.html
+	
 	
