@@ -1,6 +1,11 @@
 去github上创建一个仓库
 进入文件夹 	git init 初始化
 git remote add origin 加上github上面的什么名字
+
+
+第一次拉取
+git pull origin master
+
 开始提交
 git add .      	//将所有的本地文件提交到缓存中；后面的 . 代表所有文件；
 git commit -m "commit all file"  //将所有文件提交到本地库中
